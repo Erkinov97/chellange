@@ -1,9 +1,9 @@
-<script setup lang="ts">4
-// 
+<script setup lang="ts">
+//
 </script>
 
 <template>
   <div>
-   App
+    <h1 class="text-3xl font-bold underline">Hello world!</h1>
   </div>
 </template>
